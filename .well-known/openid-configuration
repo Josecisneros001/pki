@@ -1,6 +1,6 @@
 {
-  "issuer": "https://raw.githubusercontent.com/Josecisneros001/pki/main",
-  "jwks_uri": "https://raw.githubusercontent.com/Josecisneros001/pki/main/keys",
+  "issuer": "https://josecisneros001.github.io/pki",
+  "jwks_uri": "https://josecisneros001.github.io/pki/keys",
   "claims_supported": [
     "aud",
     "iat",
